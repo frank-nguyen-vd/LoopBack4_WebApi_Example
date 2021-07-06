@@ -1,0 +1,36 @@
+version: '3.9'
+
+services:
+  db:
+    build:
+      context: .
+      dockerfile: Dockerfile.db.linux
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=S3cr3t_P455w0rd_01
+      - SA_PASSWORD=S3cr3t_P455w0rd_01
+      - MSSQL_PID=Developer
+      - MSSQL_TCP_PORT=1433
+    volumes: 
+      - ./sampledb:/var/opt/mssql/data 
+    ports:
+      - '1433:1433'
+    container_name: db_0
+    networks:
+      - app-network
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api.linux
+    ports:
+      - '3000:3000'
+    image: img_api
+    container_name: api_0
+    networks:
+      - app-network
+
+
+networks:
+  app-network:
+    driver: bridge

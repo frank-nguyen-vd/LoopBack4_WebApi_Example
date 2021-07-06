@@ -1,3 +1,9 @@
+# HOW TO RUN API
+
+```
+docker-compose up
+```
+
 # HOW TO TEST API
 
 ### Step 1: Install Node Version Management (NVM)

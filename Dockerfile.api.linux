@@ -1,0 +1,28 @@
+FROM node:12
+
+USER root
+
+# Create working directory for API Server
+RUN mkdir /root/api
+
+WORKDIR /root/api
+
+# Install dependencies for API Server
+COPY api/package.json .
+
+RUN npm install
+
+# Copy the rest to working directory
+COPY api/. .
+
+# Ensure our entrypoint is in Unix format
+RUN apt-get -yq update && apt-get -yq install dos2unix
+
+# Copy start-up script for API Server
+COPY api.entrypoint.sh .
+RUN dos2unix api.entrypoint.sh
+
+# Publish API Server Port
+EXPOSE 3000
+
+CMD [ "/bin/bash", "api.entrypoint.sh" ]
