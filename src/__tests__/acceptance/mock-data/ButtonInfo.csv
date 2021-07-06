@@ -1,0 +1,11 @@
+status,location,isUsed
+Offline,07-01,false
+Offline,B3-19,true
+Offline,B5-41,false
+Offline,B4-64,false
+Online,B9-01,true
+Online,B3-91,false
+Online,02-11,false
+Offline,08-38,false
+Offline,B0-11,false
+Offline,08-07,true

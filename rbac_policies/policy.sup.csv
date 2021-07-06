@@ -1,0 +1,2 @@
+p, sup, deceased[0-9]*, read
+p, sup, deceased[0-9]*, update

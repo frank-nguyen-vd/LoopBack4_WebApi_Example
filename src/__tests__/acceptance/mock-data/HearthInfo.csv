@@ -1,0 +1,26 @@
+status,location,isUsed,deceasedId
+lock,AC Room,true,6
+lock,AC Room,true,20
+lock,Cremator,true,86
+lock,Cremator,false,62
+lock,Cremator,false,13
+trans,AC Room,false,36
+lock,AC Room,true,11
+lock,L1,true,89
+idle,B2,true,69
+lock,L1,true,19
+trans,AC Room,false,17
+idle,L1,true,8
+lock,B2,false,89
+trans,L1,true,39
+lock,AC Room,false,98
+lock,B2,false,64
+trans,B2,false,55
+lock,L1,true,70
+trans,B2,true,52
+trans,B2,false,32
+idle,L1,true,50
+idle,B2,false,56
+lock,B2,false,73
+lock,Cremator,true,82
+lock,L1,true,77

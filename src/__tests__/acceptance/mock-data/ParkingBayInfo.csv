@@ -1,0 +1,16 @@
+status,level,unitNumber,isUsed,isPriority,hearthId
+trans,B2,6,false,false,0
+trans,1F,6,false,false,3
+idle,B2,1,false,false,7
+trans,B2,7,true,true,1
+trans,1F,4,false,true,0
+trans,1F,4,true,true,16
+idle,B2,5,false,true,19
+trans,B2,14,true,true,8
+idle,1F,11,false,true,1
+trans,1F,8,false,false,0
+trans,B2,11,true,false,3
+trans,1F,12,true,true,1
+idle,B2,7,false,true,15
+idle,B2,14,true,true,2
+trans,1F,4,false,true,24

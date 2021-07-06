@@ -1,0 +1,101 @@
+status,statusDateTime,lockerNumber,isUsed,isFrontDoorOpen,isRearDoorOpen,deceasedId,size,facade
+In Use,7/6/2020,073,true,true,false,92,Big,C
+Open,6/4/2020,119,false,false,true,57,Small,B
+Disabled,9/8/2020,023,false,true,false,96,Big,B
+Open,11/4/2020,064,true,true,false,33,Big,B
+In Use,5/3/2020,014,true,true,false,58,Small,B
+In Use,2/5/2020,104,false,false,true,68,Small,C
+Overdue,5/13/2020,143,true,false,true,32,Small,B
+In Use,2/10/2020,028,false,true,false,13,Small,B
+Overdue,10/23/2020,053,false,true,false,48,Small,A
+Open,9/19/2020,006,true,true,false,27,Small,A
+In Use,1/17/2020,060,false,true,false,49,Small,A
+Idle,11/11/2020,078,true,true,false,39,Small,C
+Overdue,11/19/2020,170,true,false,true,17,Big,C
+In Use,3/28/2020,072,false,false,true,70,Small,A
+Disabled,4/1/2020,107,false,true,false,29,Small,A
+Disabled,11/13/2020,172,true,false,true,37,Small,A
+Disabled,4/10/2020,132,false,false,true,38,Small,A
+Open,1/1/2020,125,false,true,false,88,Small,B
+In Use,2/23/2020,148,false,false,true,42,Big,B
+Overdue,8/28/2020,002,true,true,false,50,Small,C
+Overdue,4/18/2020,028,true,false,true,62,Small,C
+Open,12/16/2020,021,true,true,false,62,Big,C
+Open,12/24/2020,172,false,true,false,21,Big,C
+Open,6/15/2020,176,true,false,true,55,Big,A
+Disabled,6/25/2020,102,false,false,true,43,Big,C
+Idle,12/27/2020,099,true,true,false,60,Small,C
+Idle,11/11/2020,155,true,true,false,62,Small,B
+Open,3/1/2020,173,false,true,false,29,Big,B
+Disabled,5/11/2020,062,true,false,true,63,Big,C
+In Use,11/27/2020,079,false,false,true,94,Big,B
+Open,3/16/2020,130,true,false,true,4,Small,C
+Overdue,4/18/2020,112,true,true,false,50,Small,B
+In Use,8/23/2020,042,false,true,false,19,Small,A
+Idle,10/31/2020,131,false,true,false,43,Small,B
+Idle,12/7/2020,136,false,true,false,42,Small,A
+Disabled,4/15/2020,023,true,false,true,98,Small,B
+Open,5/19/2020,011,false,true,false,38,Big,A
+Idle,6/16/2020,072,true,true,false,23,Big,C
+Idle,7/20/2020,028,true,true,false,82,Small,A
+In Use,7/6/2020,051,true,true,false,64,Big,B
+Idle,1/29/2020,035,false,false,true,55,Small,A
+Disabled,4/16/2020,086,false,false,true,40,Small,A
+Open,7/7/2020,135,true,true,false,67,Small,A
+Open,8/28/2020,136,true,false,true,57,Small,B
+In Use,1/8/2020,103,false,true,false,36,Big,B
+Idle,12/25/2020,134,false,false,true,94,Small,A
+Open,7/28/2020,006,false,false,true,87,Small,A
+Idle,8/28/2020,082,true,true,false,47,Big,B
+In Use,2/23/2020,072,true,false,true,81,Big,B
+Idle,11/18/2020,008,true,true,false,2,Small,C
+Disabled,8/18/2020,117,true,false,true,9,Small,C
+In Use,12/28/2020,171,false,false,true,84,Small,A
+Idle,10/9/2020,080,false,true,false,80,Small,A
+Idle,4/28/2020,049,true,true,false,69,Big,C
+In Use,10/1/2020,157,false,false,true,24,Big,A
+Disabled,11/8/2020,160,false,false,true,29,Small,B
+In Use,2/16/2020,046,true,true,false,86,Big,B
+Idle,12/2/2020,173,false,false,true,54,Small,C
+Idle,8/24/2020,064,true,true,false,7,Small,B
+In Use,8/30/2020,165,false,false,true,88,Big,A
+In Use,1/22/2020,026,true,false,true,12,Small,A
+Open,9/5/2020,060,true,false,true,88,Small,B
+Open,1/2/2020,161,false,false,true,92,Small,A
+Open,6/24/2020,180,false,false,true,8,Small,A
+Disabled,10/8/2020,146,true,false,true,50,Big,C
+In Use,8/21/2020,047,false,false,true,14,Big,C
+In Use,6/14/2020,109,false,false,true,52,Big,C
+Overdue,2/17/2020,027,true,true,false,42,Small,A
+In Use,12/21/2020,136,false,false,true,59,Small,C
+Idle,4/4/2020,043,true,true,false,60,Small,C
+Idle,1/3/2020,116,true,true,false,95,Big,B
+Overdue,4/11/2020,120,true,true,false,72,Big,A
+Disabled,4/30/2020,097,false,true,false,33,Small,C
+In Use,12/5/2020,026,true,true,false,8,Big,C
+Disabled,6/26/2020,047,false,true,false,60,Big,B
+Disabled,4/15/2020,010,false,true,false,67,Big,C
+Idle,10/12/2020,012,true,true,false,12,Big,A
+Idle,1/15/2020,020,true,true,false,57,Big,A
+Idle,11/9/2020,090,false,true,false,85,Big,A
+Open,5/8/2020,038,false,true,false,18,Big,B
+Disabled,7/17/2020,028,true,false,true,64,Small,A
+Overdue,5/15/2020,038,false,false,true,13,Big,C
+In Use,6/5/2020,166,true,true,false,24,Big,C
+In Use,12/14/2020,052,true,true,false,63,Big,C
+In Use,7/28/2020,116,false,true,false,5,Big,A
+Disabled,11/10/2020,037,true,true,false,46,Small,B
+Open,1/5/2020,105,true,false,true,81,Big,A
+Overdue,12/15/2020,074,true,false,true,38,Big,C
+Disabled,11/27/2020,044,true,false,true,33,Big,A
+Open,5/4/2020,179,true,false,true,47,Small,C
+Overdue,9/20/2020,082,true,true,false,36,Small,B
+Open,7/7/2020,030,true,true,false,25,Big,A
+Overdue,5/27/2020,110,false,true,false,80,Small,C
+Disabled,1/10/2020,148,false,false,true,67,Small,C
+In Use,7/6/2020,127,false,false,true,18,Big,A
+Disabled,2/2/2020,034,true,false,true,13,Small,B
+Open,4/27/2020,098,true,false,true,29,Big,A
+Open,1/9/2020,047,true,true,false,17,Small,A
+Open,7/21/2020,165,false,false,true,40,Big,C
+Overdue,12/26/2020,168,false,true,false,99,Small,A
